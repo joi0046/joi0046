@@ -1,5 +1,7 @@
 # Hello I'm JoI👍
 ![joi0046](https://github-readme-stats.vercel.app/api?username=joi0046&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joi0046&layout=compact&theme=tokyonight)
+
 ## Self-Introduction
 - I'm a student at Toyota National College of Technology.
 - I love things about computers
