@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## Self-Introduction
 - I'm a student at Toyota National College of Technology.
 - I love things about computers
-- \\\\beginner programmer///🔰
+- \\beginner programmer//🔰
 - Nice to meet you!
 
 ## 🛠️ Studying now
