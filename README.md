@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello👋
 
 <!--
 **joi0046/joi0046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello I'm JoI
+
+## Self-Introduction
+- I'm a student at Toyota National College of Technology.
+- I love things about computers
+- <beginner programmer>🔰
+- Nice to meet you!
+
+## 🛠️ Studying now
+![Python]("https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=plastic)
+![Vim](https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=plastic)
+
+## Contact Information
 -->
