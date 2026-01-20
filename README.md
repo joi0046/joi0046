@@ -1,11 +1,4 @@
-## Hello👋
-
-
-**joi0046/joi0046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# Hello I'm JoI
+# Hello I'm JoI👍
 
 ## Self-Introduction
 - I'm a student at Toyota National College of Technology.
