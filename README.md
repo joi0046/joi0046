@@ -4,7 +4,6 @@
 - I'm a student at Toyota National College of Technology.
 - I love things about computers
 - \\\beginner programmer//🔰
-- Nice to meet you!
 
 ## 🛠️ Studying now
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic)
